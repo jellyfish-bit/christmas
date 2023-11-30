@@ -1,6 +1,6 @@
 const date = new Date();
 const day = date.getDate();
-const month = date.getMonth();
+const month = 11 //date.getMonth(); 11
 console.info("Current Day: " + day)
 console.info("Current Month: " + month)
 
