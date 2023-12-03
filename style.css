@@ -266,7 +266,6 @@ body {
   }
 
   .inside {
-    
     background-color: rgba(15, 15, 46, 0.6);
     
     color: whitesmoke;
@@ -280,7 +279,9 @@ body {
     justify-content: center !important;
   }
   
-  .message {}
+  .message {
+    font-size: 14px;
+  }
   
   /* Calendar day positions and z-indexes */
   .calendar-grid .day-1 {
