@@ -278,6 +278,10 @@ body {
     display: flex !important; 
     justify-content: center !important;
   }
+  .inside img {
+    max-width: 90%;
+    object-fit: contain;
+  }
   
   .message {
     font-size: 14px;
